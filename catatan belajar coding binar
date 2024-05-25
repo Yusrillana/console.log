@@ -1,3 +1,6 @@
 list pertanyaan yang sudah terjawab
 1. mempraktekkan function dalam javacript. bisa menggunakan  anak panah (=>) sebagai fungsi dalam function
-2. rumusnya adalah function nama (bahan) {hasil}
+2. rumusnya adalah var namaVariabel = fungsisatu => hasil fungsi
+
+ini catatan pada pertemuan ketiga
+pertemuan awal ada di dalam google keep
